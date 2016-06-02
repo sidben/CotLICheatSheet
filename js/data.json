@@ -101,6 +101,11 @@
       "image": "royal.png"
     },
     {
+      "id": "clicker",
+      "displayName": "Clicker",
+      "image": "clicker.png"
+    },
+    {
       "id": "event",
       "displayName": "Event",
       "image": "event.png"
@@ -109,265 +114,265 @@
   "crusaders": [
     {
       "displayName": "The Bush Whacker",
-      "image": "Bushwacker.png",
+      "image": "mini_Bushwacker.jpg",
 	  "slot": 1,
       "tags": ["clicker", "human", "male"]
     },
     {
       "displayName": "RoboRabbit",
-      "image": "RoboRabbit.png",
+      "image": "mini_RoboRabbit.jpg",
 	  "slot": 1,
       "tags": ["clicker", "event", "male", "robot", "support"]
     },
     {
       "displayName": "Jim the Lumberjack",
-      "image": "Jim.png",
+      "image": "mini_Jim.jpg",
 	  "slot": 2,
       "tags": ["human", "male", "dps", "support"]
     },
     {
       "displayName": "Pilot Pam",
-      "image": "Pam.png",
+      "image": "mini_Pam.jpg",
 	  "slot": 2,
       "tags": ["human", "female", "dps", "support", "event"]
     },
     {
       "displayName": "Emo Werewolf",
-      "image": "Emo.png",
+      "image": "mini_Emo.jpg",
 	  "slot": 3,
       "tags": ["animal", "male", "dps", "supernatural"]
     },
     {
       "displayName": "Sally the Succubus",
-      "image": "Sally.png",
+      "image": "mini_Sally.jpg",
 	  "slot": 3,
       "tags": ["demon", "female", "dps", "supernatural", "event"]
     },
     {
       "displayName": "Sasha the Fierce Warrior",
-      "image": "Sasha.png",
+      "image": "mini_Sasha.jpg",
 	  "slot": 4,
       "tags": ["human", "female", "support"]
     },
     {
       "displayName": "Groklok the Orc",
-      "image": "Groklok.png",
+      "image": "mini_Groklok.jpg",
 	  "slot": 4,
       "tags": ["orc", "male", "support", "dps", "tank", "event"]
     },
     {
       "displayName": "The Washed Up Hermit",
-      "image": "Hermit.png",
+      "image": "mini_Hermit.jpg",
 	  "slot": 5,
       "tags": ["human", "male", "dps"]
     },
     {
       "displayName": "Kyle the Party Bro",
-      "image": "Kyle.png",
+      "image": "mini_Kyle.jpg",
 	  "slot": 5,
       "tags": ["human", "male", "dps", "event"]
     },
     {
       "displayName": "Detective Kaine",
-      "image": "Kaine.png",
+      "image": "mini_Kaine.jpg",
 	  "slot": 6,
       "tags": ["human", "male", "gold"]
     },
     {
       "displayName": "Mister the Monkey",
-      "image": "Mister.png",
+      "image": "mini_Mister.jpg",
 	  "slot": 6,
       "tags": ["animal", "male", "gold", "event"]
     },
     {
       "displayName": "Larry the Leprechaun",
-      "image": "Larry.png",
+      "image": "mini_Larry.jpg",
 	  "slot": 6,
       "tags": ["leprechaun", "male", "gold", "magic", "support", "event"]
     },
     {
       "displayName": "The Princess",
-      "image": "Princess.png",
+      "image": "mini_Princess.jpg",
 	  "slot": 7,
       "tags": ["female", "human", "support", "royal"]
     },
     {
       "displayName": "RoboTurkey",
-      "image": "RoboTurkey.png",
+      "image": "mini_RoboTurkey.jpg",
 	  "slot": 7,
       "tags": ["male", "robot", "support", "event"]
     },
     {
       "displayName": "Natalie Dragon",
-      "image": "Natalie.png",
+      "image": "mini_Natalie.jpg",
 	  "slot": 8,
       "tags": ["female", "human", "gold", "dps"]
     },
     {
       "displayName": "Jack O'Lantern",
-      "image": "Jack.png",
+      "image": "mini_Jack.jpg",
 	  "slot": 8,
       "tags": ["male", "animal", "gold", "tank", "supernatural", "event"]
     },
     {
       "displayName": "Jason, Master of Shadows",
-      "image": "Jason.png",
+      "image": "mini_Jason.jpg",
 	  "slot": 9,
       "tags": ["male", "human", "gold", "dps"]
     },
     {
       "displayName": "Pete the Carney",
-      "image": "Pete.png",
+      "image": "mini_Pete.jpg",
 	  "slot": 9,
       "tags": ["male", "human", "support", "gold", "event"]
     },
     {
       "displayName": "Broot",
-      "image": "Broot.png",
+      "image": "mini_Broot.jpg",
 	  "slot": 9,
       "tags": ["male", "female", "support", "gold", "tank", "supernatural", "event"]
     },
     {
       "displayName": "Artaxes, the Lion",
-      "image": "Artaxes.png",
+      "image": "mini_Artaxes.jpg",
 	  "slot": 10,
       "tags": ["male", "animal", "support", "supernatural"]
     },
     {
       "displayName": "Drizzle the Dark Elf",
-      "image": "Drizzle.png",
+      "image": "mini_Drizzle.jpg",
 	  "slot": 10,
       "tags": ["female", "elf", "support", "event"]
     },
     {
       "displayName": "Khouri, the Witch Doctor",
-      "image": "Khouri.png",
+      "image": "mini_Khouri.jpg",
 	  "slot": 11,
       "tags": ["male", "human", "magic", "healer", "support"]
     },
     {
       "displayName": "Momma Kaine",
-      "image": "Momma.png",
+      "image": "mini_Momma.jpg",
 	  "slot": 11,
       "tags": ["female", "human", "healer", "support", "event"]
     },
     {
       "displayName": "Brogon, Prince of Dragons",
-      "image": "Brogon.png",
+      "image": "mini_Brogon.jpg",
 	  "slot": 11,
       "tags": ["male", "animal", "dragon", "healer", "support", "royal", "event"]
     },
     {
       "displayName": "Dark Gryphon",
-      "image": "Gryphon.png",
+      "image": "mini_Gryphon.jpg",
 	  "slot": 12,
       "tags": ["female", "animal", "support", "supernatural"]
     },
     {
       "displayName": "Rocky the Rockstar",
-      "image": "Rocky.png",
+      "image": "mini_Rocky.jpg",
 	  "slot": 12,
       "tags": ["male", "human", "dps", "event"]
     },
     {
       "displayName": "Sarah, the Collector",
-      "image": "Sarah.png",
+      "image": "mini_Sarah.jpg",
 	  "slot": 13,
       "tags": ["female", "human", "dps"]
     },
     {
       "displayName": "The Metal Soldierette",
-      "image": "Soldierette.png",
+      "image": "mini_Soldierette.jpg",
 	  "slot": 13,
       "tags": ["female", "human", "robot", "dps", "tank", "event"]
     },
     {
       "displayName": "Gold Panda",
-      "image": "Panda.png",
+      "image": "mini_Panda.jpg",
 	  "slot": 14,
       "tags": ["female", "animal", "gold", "supernatural"]
     },
     {
       "displayName": "RoboSanta",
-      "image": "RoboSanta.png",
+      "image": "mini_RoboSanta.jpg",
 	  "slot": 14,
       "tags": ["male", "robot", "gold", "event"]
     },
     {
       "displayName": "Leerion, the Royal Dwarf",
-      "image": "Leerion.png",
+      "image": "mini_Leerion.jpg",
 	  "slot": 14,
       "tags": ["male", "human", "dwarf", "royal", "gold", "event"]
     },
     {
       "displayName": "Prince Sal, the Merman",
-      "image": "Sal.png",
+      "image": "mini_Sal.jpg",
 	  "slot": 15,
       "tags": ["male", "animal", "dps", "royal"]
     },
     {
       "displayName": "Wendy the Witch",
-      "image": "Wendy.png",
+      "image": "mini_Wendy.jpg",
 	  "slot": 15,
       "tags": ["female", "human", "magic", "dps", "event"]
     },
     {
       "displayName": "Robbie Raccoon",
-      "image": "Robbie.png",
+      "image": "mini_Robbie.jpg",
 	  "slot": 15,
       "tags": ["male", "animal", "dps", "support", "event"]
     },
     {
       "displayName": "Fire Phoenix",
-      "image": "Phoenix.png",
+      "image": "mini_Phoenix.jpg",
 	  "slot": 16,
       "tags": ["female", "animal", "support", "supernatural"]
     },
     {
       "displayName": "Alan the ArchAngel",
-      "image": "Alan.png",
+      "image": "mini_Alan.jpg",
 	  "slot": 16,
       "tags": ["male", "angel", "support", "supernatural", "event"]
     },
     {
       "displayName": "King Reginald IV",
-      "image": "Reginald.png",
+      "image": "mini_Reginald.jpg",
 	  "slot": 17,
       "tags": ["male", "human", "support", "royal"]
     },
     {
       "displayName": "Queen Siri",
-      "image": "Siri.png",
+      "image": "mini_Siri.jpg",
 	  "slot": 17,
       "tags": ["female", "human", "support", "gold", "royal", "event"]
     },
     {
       "displayName": "Thalia, the Thunder King",
-      "image": "Thalia.png",
+      "image": "mini_Thalia.jpg",
 	  "slot": 18,
       "tags": ["male", "human", "support", "tank", "magic", "royal"]
     },
     {
       "displayName": "Frosty the Snowman",
-      "image": "Frosty.png",
+      "image": "mini_Frosty.jpg",
 	  "slot": 18,
       "tags": ["male", "animal", "dps", "supernatural", "event"]
     },
     {
       "displayName": "Merci, the Mad Wizard",
-      "image": "Merci.png",
+      "image": "mini_Merci.jpg",
 	  "slot": 19,
       "tags": ["male", "human", "magic", "support"]
     },
     {
       "displayName": "The Bat Billionaire",
-      "image": "Bat.png",
+      "image": "mini_Bat.jpg",
 	  "slot": 19,
       "tags": ["male", "human", "support", "event"]
     },
     {
       "displayName": "Nate Dragon",
-      "image": "Nate.png",
+      "image": "mini_Nate.jpg",
 	  "slot": 20,
       "tags": ["male", "human", "dps", "support"]
     }
