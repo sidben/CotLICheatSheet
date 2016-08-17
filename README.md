@@ -1,4 +1,4 @@
-Mission Tags Cheat Sheet - Crusaders of the Lost Idols
+Crusader Tags Cheat Sheet for Missions - Crusaders of the Lost Idols
 ==================
 
-http://sidben.github.io/CotLICheatSheet/
+https://androidquanta.github.io/cotli-mission-tags
